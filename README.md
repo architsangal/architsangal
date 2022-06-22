@@ -27,6 +27,9 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
     <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://stackoverflow.com/users/13279920/archit?tab=profile">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-lightgrey?style=for-the-badge&logo=stackoverflow&logoColor=black" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-lightgrey?style=for-the-badge&logo=stackoverflow&logoColor=brown" alt="Instagram Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13279920/archit?tab=profile">
+    <img src="https://img.shields.io/badge/-GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
