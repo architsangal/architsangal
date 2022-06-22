@@ -77,3 +77,12 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
+<!-- 
+
+Good Resources-
+
+https://github-profile-summary-cards.vercel.app/demo.html
+https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+>
