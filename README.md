@@ -32,9 +32,16 @@
 I am from India. I enjoy listening to music, playing badminton, and travelling. I am fluent in English and Hindi. I like to call myself a Fullstack Flutter Developer. I have built many applications with flutter and native using native android with java with backend in Firebase. I'm always looking to learn something new. </div>
 
 ## GitHub Stats
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr">
+<div id="badges" align="center">
+
+  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 700> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 290>
+
+</div>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark)
+
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
-<img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr">
 
 #
 <img align="right" src="gif.gif" width="400" height="300" style="margin-left: 50px" >
@@ -71,7 +78,3 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
 <img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-
-# 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=nord_dark)
-<img src = "">
