@@ -36,11 +36,9 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 ## GitHub Stats
 <div id="badges" align="center">
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 490> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 200> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark" width = 460><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark" width = 220> <img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 700>
+  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 490> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 200> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark" width = 465><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark" width = 225> <img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 690>
 
 </div>
-
-<img align="right" src="gif.gif" width="400" height="300" style="margin-left: 50px" >
 
 ## Languages
 
@@ -51,8 +49,11 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 <img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
 <img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 
+#
 
-## Technologies and Frameworks
+<img align="right" src="gif.gif" width="200" height="150">
+
+### Technologies and Frameworks
 
 <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src = "https://img.shields.io/badge/Native%20Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 <img src = "https://img.shields.io/badge/Manim-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
@@ -68,7 +69,7 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 <img src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 <img src = "https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img src = "https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
-
+#
 ## OS
 <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src = "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
