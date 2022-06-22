@@ -51,7 +51,7 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 
 #
 
-<img align="right" src="gif.gif" width="200" height="150">
+<img align="right" src="gif.gif" width="300" height="225">
 
 ### Technologies and Frameworks
 
@@ -69,7 +69,9 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 <img src = "https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 <img src = "https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 <img src = "https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white">
+
 #
+
 ## OS
 <img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img src = "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
 <img src = "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
