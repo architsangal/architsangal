@@ -51,7 +51,7 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 
 #
 
-<img align="right" src="gif.gif" width="300" height="225">
+<img align="right" src="gif.gif" width="300" height="180">
 
 ### Technologies and Frameworks
 
