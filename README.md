@@ -15,3 +15,18 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 
 ## Contant Me
 <img align="right" src="gif.gif" width="400" height="300" style="margin-left: 50px" >
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/archit-sangal-aa7185190/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/ArchitSangal_">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.instagram.com/architsangal2000/">
+    <img src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/13279920/archit?tab=profile">
+    <img src="https://img.shields.io/badge/-Stack%20Overflow-lightgrey?style=for-the-badge&logo=stackoverflow&logoColor=black" alt="Instagram Badge"/>
+  </a>
+</div>
