@@ -1,5 +1,7 @@
-![Banner](./banner.png)
-
+<div align="center">
+  <img src="./banner.png">
+</div>
+  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/archit-sangal-aa7185190/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -34,14 +36,9 @@ I am from India. I enjoy listening to music, playing badminton, and travelling. 
 ## GitHub Stats
 <div id="badges" align="center">
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 700> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 290>
+  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 490> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 200> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark" width = 460><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark" width = 220> <img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 700>
 
 </div>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark)
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
 
 #
 <img align="right" src="gif.gif" width="400" height="300" style="margin-left: 50px" >
