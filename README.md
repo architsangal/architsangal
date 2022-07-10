@@ -31,7 +31,9 @@
 - 😄 Pronouns: He/His
 
 <div style="text-align: justify"> 
-I am from India. I enjoy listening to music, playing badminton, and travelling. I am fluent in English and Hindi. I like to call myself a Fullstack Flutter Developer. I have built many applications with flutter and using native android with java with backend in Firebase. I'm always looking to learn something new. </div>
+
+Archit enjoys listening to music, playing badminton, and travelling. He likes to call himself a Fullstack Flutter Developer and is always looking to learn something new. He has built many applications with flutter and using native android with java with backend in Firebase. Always looking to learn something new. If you are shy to start a conversation, he will probably initial with a positive comment. He is from India and is fluent in English and Hindi.
+</div>
 
 ## GitHub Stats
 <div id="badges" align="center">
