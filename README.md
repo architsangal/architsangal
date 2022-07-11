@@ -32,7 +32,7 @@
 
 <div style="text-align: justify"> 
 
-Archit enjoys listening to music, playing badminton, and travelling. He likes to call himself a Fullstack Flutter Developer and is always looking to learn something new. He has built many applications with flutter and using native android with java with backend in Firebase. Always looking to learn something new. If you are shy to start a conversation, he will probably initial with a positive comment. He is from India and is fluent in English and Hindi.
+Archit enjoys listening to music, playing badminton, and travelling. He likes to call himself a Fullstack Flutter Developer and is always looking to learn something new. He has built many applications with flutter and using native android with java with backend in Firebase. If you are shy to start a conversation, he will probably initiate with a positive comment. He is from India and is fluent in English and Hindi.
 </div>
 
 ## GitHub Stats
