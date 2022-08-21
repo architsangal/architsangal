@@ -38,7 +38,10 @@ Archit enjoys listening to music, playing badminton, and travelling. He likes to
 ## GitHub Stats
 <div id="badges" align="center">
 
-  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 490> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 200> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark" width = 465><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark" width = 225> <img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 690>
+  <img src = "https://github-readme-stats.vercel.app/api?username=architsangal&count_private=true&show_icons=true&theme=codeSTACKr" width = 490> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=architsangal&theme=codeSTACKr" width = 200> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=architsangal&theme=github_dark" width = 465><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=architsangal&theme=github_dark" width = 225> 
+  <!-- 
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=architsangal&theme=vision-friendly-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width = 690> 
+  >
 
 </div>
 
