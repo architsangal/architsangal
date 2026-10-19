@@ -1,57 +1,104 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Archit Sangal — software engineer</title>
-  <desc id="desc">A dark, minimal backend-systems banner with softly animated service connections.</desc>
+  <desc id="desc">A generic backend architecture: a request moves through routing and services toward data, events, and observability.</desc>
   <defs>
-    <linearGradient id="bg" x2="1" y2="1">
+    <linearGradient id="background" x2="1" y2="1">
       <stop offset="0" stop-color="#101b2a"/>
-      <stop offset="1" stop-color="#172f3c"/>
+      <stop offset="1" stop-color="#193543"/>
     </linearGradient>
-    <linearGradient id="line" x2="1">
-      <stop offset="0" stop-color="#62d6c1"/>
-      <stop offset="1" stop-color="#7aa8ee"/>
+    <linearGradient id="signal" x2="1">
+      <stop offset="0" stop-color="#69dbc6"/>
+      <stop offset="1" stop-color="#83b6ed"/>
     </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M32 0H0V32" fill="none" stroke="#d8f3ec" stroke-opacity=".055"/>
     </pattern>
     <style>
-      .trace { stroke-dasharray: 7 12; animation: drift 8s linear infinite; }
-      .trace.slow { animation-duration: 12s; animation-direction: reverse; }
-      .pulse { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
-      .pulse.late { animation-delay: 1.3s; }
-      @keyframes drift { to { stroke-dashoffset: -76; } }
-      @keyframes pulse { 0%, 100% { opacity: .45; transform: scale(.9); } 50% { opacity: 1; transform: scale(1.2); } }
+      .flow { stroke-dasharray: 7 12; animation: travel 7s linear infinite; }
+      .flow.reverse { animation-direction: reverse; animation-duration: 10s; }
+      .beacon { animation: breathe 3s ease-in-out infinite; }
+      .beacon.late { animation-delay: 1.5s; }
+      @keyframes travel { to { stroke-dashoffset: -76; } }
+      @keyframes breathe { 0%, 100% { opacity: .45; } 50% { opacity: 1; } }
+      @media (prefers-reduced-motion: reduce) {
+        .flow, .beacon { animation: none; }
+      }
     </style>
   </defs>
-  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+
+  <rect width="1200" height="300" rx="20" fill="url(#background)"/>
   <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
-  <path d="M0 0H1200V300H0Z" fill="none" stroke="#9fead5" stroke-opacity=".18"/>
-  <path d="M42 59V240" stroke="#63d7c2" stroke-width="3" stroke-linecap="round"/>
+  <rect x=".5" y=".5" width="1199" height="299" rx="19.5" fill="none" stroke="#8bc6bd" stroke-opacity=".2"/>
+  <path d="M42 58V241" stroke="#69dbc6" stroke-width="3" stroke-linecap="round"/>
 
-  <text x="72" y="83" fill="#6fdfc7" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">HELLO, I'M</text>
-  <text x="70" y="157" fill="#f4f7f7" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Archit Sangal</text>
-  <text x="73" y="198" fill="#d8e7e5" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Software engineer · backend &amp; systems</text>
-  <text x="73" y="245" fill="#91b8b8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">BUILD  /  MEASURE  /  IMPROVE</text>
+  <text x="72" y="82" fill="#76dfcb" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">HELLO, I'M</text>
+  <text x="70" y="155" fill="#f3f8f7" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Archit Sangal</text>
+  <text x="73" y="197" fill="#d9e9e7" font-family="Arial, Helvetica, sans-serif" font-size="23">Software engineer</text>
+  <text x="73" y="241" fill="#98bcbc" font-family="Arial, Helvetica, sans-serif" font-size="16">Thinking beyond the happy path.</text>
 
-  <path d="M805 150C840 150 840 76 894 76H944" fill="none" stroke="#7edacc" stroke-opacity=".25" stroke-width="2"/>
-  <path d="M805 150H942" fill="none" stroke="#7edacc" stroke-opacity=".25" stroke-width="2"/>
-  <path d="M805 150C840 150 840 225 894 225H944" fill="none" stroke="#7edacc" stroke-opacity=".25" stroke-width="2"/>
-  <path class="trace" d="M805 150C840 150 840 76 894 76H944" fill="none" stroke="url(#line)" stroke-width="2.5"/>
-  <path class="trace slow" d="M805 150H942" fill="none" stroke="url(#line)" stroke-width="2.5"/>
-  <path class="trace" d="M805 150C840 150 840 225 894 225H944" fill="none" stroke="url(#line)" stroke-width="2.5"/>
-
-  <rect x="675" y="114" width="130" height="72" rx="15" fill="#173b46" stroke="#59cdb9" stroke-width="2"/>
-  <text x="740" y="157" text-anchor="middle" fill="#e8fffa" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Go</text>
-  <circle class="pulse" cx="805" cy="150" r="5" fill="#87ead6"/>
-
-  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#d8e9e9">
-    <rect x="944" y="49" width="176" height="54" rx="12" fill="#233d4c" stroke="#5f8795"/>
-    <text x="1032" y="83" text-anchor="middle">Service design</text>
-    <rect x="944" y="123" width="176" height="54" rx="12" fill="#233d4c" stroke="#5f8795"/>
-    <text x="1032" y="157" text-anchor="middle">Data modeling</text>
-    <rect x="944" y="198" width="176" height="54" rx="12" fill="#233d4c" stroke="#5f8795"/>
-    <text x="1032" y="232" text-anchor="middle">Performance</text>
+  <g fill="#b6cecd" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">
+    <text x="653" y="58" text-anchor="middle">INPUT</text>
+    <text x="886" y="58" text-anchor="middle">SERVICES</text>
+    <text x="1070" y="58" text-anchor="middle">OUTCOMES</text>
   </g>
-  <circle class="pulse late" cx="944" cy="76" r="4" fill="#87ead6"/>
-  <circle class="pulse" cx="944" cy="150" r="4" fill="#87ead6"/>
-  <circle class="pulse late" cx="944" cy="225" r="4" fill="#87ead6"/>
+
+  <g fill="none" stroke="#8bb9b8" stroke-opacity=".28" stroke-width="2">
+    <path d="M680 150H738"/>
+    <path d="M792 150C816 150 816 90 846 90"/>
+    <path d="M792 150H846"/>
+    <path d="M792 150C816 150 816 210 846 210"/>
+    <path d="M934 90H1008"/>
+    <path d="M934 150H1008"/>
+    <path d="M934 210H1008"/>
+  </g>
+  <g fill="none" stroke="url(#signal)" stroke-width="2.5">
+    <path class="flow" d="M680 150H738"/>
+    <path class="flow" d="M792 150C816 150 816 90 846 90"/>
+    <path class="flow reverse" d="M792 150H846"/>
+    <path class="flow" d="M792 150C816 150 816 210 846 210"/>
+    <path class="flow" d="M934 90H1008"/>
+    <path class="flow reverse" d="M934 150H1008"/>
+    <path class="flow" d="M934 210H1008"/>
+  </g>
+
+  <circle cx="653" cy="150" r="27" fill="#193d48" stroke="#68d7c4" stroke-width="2"/>
+  <path d="M643 142h18m-18 8h13m-13 8h9" stroke="#c7f5ea" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M766 123l27 15v25l-27 15-27-15v-25z" fill="#224858" stroke="#85b8ca" stroke-width="2"/>
+  <circle cx="766" cy="150" r="7" fill="#7de0ce"/>
+  <circle cx="766" cy="134" r="3" fill="#a6cdeb"/>
+  <circle cx="750" cy="160" r="3" fill="#a6cdeb"/>
+  <circle cx="782" cy="160" r="3" fill="#a6cdeb"/>
+  <path d="M766 143v-6m-6 17-8 5m20-5 8 5" stroke="#a6cdeb" stroke-width="1.5"/>
+
+  <g fill="#244453" stroke="#648d9a" stroke-width="1.5">
+    <rect x="846" y="69" width="88" height="42" rx="10"/>
+    <rect x="846" y="129" width="88" height="42" rx="10"/>
+    <rect x="846" y="189" width="88" height="42" rx="10"/>
+  </g>
+  <g fill="#8de6d3">
+    <circle cx="860" cy="90" r="3"/><circle cx="860" cy="150" r="3"/><circle cx="860" cy="210" r="3"/>
+  </g>
+  <g stroke="#b8d6d5" stroke-width="2" stroke-linecap="round">
+    <path d="M871 85h47m-47 9h30"/>
+    <path d="M871 145h47m-47 9h30"/>
+    <path d="M871 205h47m-47 9h30"/>
+  </g>
+
+  <g fill="#263f4d" stroke="#658b97" stroke-width="1.5">
+    <rect x="1008" y="69" width="126" height="42" rx="10"/>
+    <rect x="1008" y="129" width="126" height="42" rx="10"/>
+    <rect x="1008" y="189" width="126" height="42" rx="10"/>
+  </g>
+  <g fill="#d8e9e9" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600">
+    <text x="1071" y="96" text-anchor="middle">Data</text>
+    <text x="1071" y="156" text-anchor="middle">Events</text>
+    <text x="1071" y="216" text-anchor="middle">Observe</text>
+  </g>
+  <circle class="beacon" cx="1008" cy="90" r="4" fill="#83e6d3"/>
+  <circle class="beacon late" cx="1008" cy="150" r="4" fill="#83e6d3"/>
+  <circle class="beacon" cx="1008" cy="210" r="4" fill="#83e6d3"/>
+
+  <path d="M1070 231v31H766v-72" fill="none" stroke="#e28f72" stroke-opacity=".3" stroke-width="2"/>
+  <path class="flow reverse" d="M1070 231v31H766v-72" fill="none" stroke="#e99678" stroke-width="2"/>
+  <circle cx="766" cy="262" r="3" fill="#e99678"/>
 </svg>
