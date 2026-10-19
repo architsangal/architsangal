@@ -1,30 +1,30 @@
-# Archit Sangal
+<div align="center">
+  <img src="./assets/hero.svg" alt="Archit Sangal — software engineer focused on Go and backend systems" width="100%" />
 
-Software engineer focused on backend services, distributed systems, and performance. I work primarily with **Go**, **gRPC**, **MongoDB**, **MySQL**, and **AWS**, and enjoy tracing reliability and latency problems across APIs, caching, and databases.
+  <br />
 
-[LinkedIn](https://www.linkedin.com/in/architsangal/) · [X](https://x.com/ArchitSangal_) · [Email](mailto:architsangal2000@gmail.com)
+  **I like building the parts of a product you don't see—then making them faster, clearer, and more dependable.**
 
-## What I work on
+  [LinkedIn](https://www.linkedin.com/in/architsangal/) · [X](https://x.com/ArchitSangal_) · [Email](mailto:architsangal2000@gmail.com)
+</div>
 
-- At **NOVAMESH (a Tata Communications enterprise)**, I have helped migrate services from PHP and Node.js to Go and built gRPC services.
-- Reduced one API's response time from over 10 seconds to under 100 ms by moving synchronous cache-clearing work off the request path.
-- Reduced another API's latency from 880 ms to 79 ms through query analysis and compound indexes. [More about my experience](https://www.linkedin.com/in/architsangal/)
-- I like taking services from design through production, with attention to observability, reliability, and clear boundaries between components.
+### Where I focus
 
-Most of my professional backend work is in private repositories. The public projects below show the code and design work I can share.
+`Go` · `gRPC` · `Backend architecture` · `APIs` · `MongoDB` · `MySQL` · `Performance`
 
-## Selected projects
+I enjoy designing service boundaries, thinking through data models, and following a slow request all the way to its cause. I also work with AWS, Docker, and Kubernetes. This space is for my own projects, experiments, and what I learn while building them.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [AteThat](https://github.com/architsangal/AteThat) | An in-progress nutrition and health-tracking app with a React/TypeScript frontend, a Go REST API, a private Go gRPC core, MongoDB, and Docker-based local development. See its [architecture](https://github.com/architsangal/AteThat/blob/main/docs/ARCHITECTURE_VISUAL_SUMMARY.md) and [recent pull requests](https://github.com/architsangal/AteThat/pulls?q=is%3Apr). **Locally runnable; not a production deployment.** |
-| [MongoDB graph analytics library](https://github.com/architsangal/MongoDB-based-Graph-Algorithm-and-Analytics-Library) | Graph representation, transformation, and analysis scripts using MongoDB and JavaScript, including connected components and graph-minor operations. |
-| [FoodFast](https://github.com/architsangal/foodfast) | A student canteen app built with Flutter and Firebase. I created and led the project and mentored two students through IIITB Summer of Code. |
+### On my workbench
 
-## Tools I use
+**[AteThat](https://github.com/architsangal/AteThat)** — a nutrition and health-tracking app that I'm actively building. Its backend uses a Go API, a Go gRPC core, and MongoDB, with a React/TypeScript interface. It's locally runnable, not a production deployment. The [architecture notes](https://github.com/architsangal/AteThat/blob/main/docs/ARCHITECTURE_VISUAL_SUMMARY.md) and [pull requests](https://github.com/architsangal/AteThat/pulls?q=is%3Apr) show where it's heading and how it's changing.
 
-- **Backend:** Go, gRPC, REST APIs, MongoDB, MySQL
-- **Infrastructure:** AWS, Docker, Kubernetes
-- **Also worked with:** JavaScript/TypeScript, React, Flutter
+<sub>Still in motion: I'll update this profile as the project grows.</sub>
 
-I value readable code, measurable improvements, and documentation that makes a system easier to understand and maintain.
+### Other things I've built
+
+- **[MongoDB graph analytics library](https://github.com/architsangal/MongoDB-based-Graph-Algorithm-and-Analytics-Library)** — graph representation and analysis with MongoDB and JavaScript, including connected components and graph-minor operations.
+- **[FoodFast](https://github.com/architsangal/foodfast)** — a Flutter/Firebase canteen app I built and led during college, mentoring two students through IIITB Summer of Code.
+
+<div align="center">
+  <sub>Curiosity → prototype → measure → improve.</sub>
+</div>

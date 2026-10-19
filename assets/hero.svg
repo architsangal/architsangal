@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Archit Sangal — software engineer</title>
+  <desc id="desc">A dark, minimal backend-systems banner with softly animated service connections.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b2a"/>
+      <stop offset="1" stop-color="#172f3c"/>
+    </linearGradient>
+    <linearGradient id="line" x2="1">
+      <stop offset="0" stop-color="#62d6c1"/>
+      <stop offset="1" stop-color="#7aa8ee"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#d8f3ec" stroke-opacity=".055"/>
+    </pattern>
+    <style>
+      .trace { stroke-dasharray: 7 12; animation: drift 8s linear infinite; }
+      .trace.slow { animation-duration: 12s; animation-direction: reverse; }
+      .pulse { animation: pulse 3.2s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+      .pulse.late { animation-delay: 1.3s; }
+      @keyframes drift { to { stroke-dashoffset: -76; } }
+      @keyframes pulse { 0%, 100% { opacity: .45; transform: scale(.9); } 50% { opacity: 1; transform: scale(1.2); } }
+    </style>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="20" fill="url(#grid)"/>
+  <path d="M0 0H1200V300H0Z" fill="none" stroke="#9fead5" stroke-opacity=".18"/>
+  <path d="M42 59V240" stroke="#63d7c2" stroke-width="3" stroke-linecap="round"/>
+
+  <text x="72" y="83" fill="#6fdfc7" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="3">HELLO, I'M</text>
+  <text x="70" y="157" fill="#f4f7f7" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">Archit Sangal</text>
+  <text x="73" y="198" fill="#d8e7e5" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="500">Software engineer · backend &amp; systems</text>
+  <text x="73" y="245" fill="#91b8b8" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="1">BUILD  /  MEASURE  /  IMPROVE</text>
+
+  <path d="M805 150C840 150 840 76 894 76H944" fill="none" stroke="#7edacc" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M805 150H942" fill="none" stroke="#7edacc" stroke-opacity=".25" stroke-width="2"/>
+  <path d="M805 150C840 150 840 225 894 225H944" fill="none" stroke="#7edacc" stroke-opacity=".25" stroke-width="2"/>
+  <path class="trace" d="M805 150C840 150 840 76 894 76H944" fill="none" stroke="url(#line)" stroke-width="2.5"/>
+  <path class="trace slow" d="M805 150H942" fill="none" stroke="url(#line)" stroke-width="2.5"/>
+  <path class="trace" d="M805 150C840 150 840 225 894 225H944" fill="none" stroke="url(#line)" stroke-width="2.5"/>
+
+  <rect x="675" y="114" width="130" height="72" rx="15" fill="#173b46" stroke="#59cdb9" stroke-width="2"/>
+  <text x="740" y="157" text-anchor="middle" fill="#e8fffa" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Go</text>
+  <circle class="pulse" cx="805" cy="150" r="5" fill="#87ead6"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="600" fill="#d8e9e9">
+    <rect x="944" y="49" width="176" height="54" rx="12" fill="#233d4c" stroke="#5f8795"/>
+    <text x="1032" y="83" text-anchor="middle">Service design</text>
+    <rect x="944" y="123" width="176" height="54" rx="12" fill="#233d4c" stroke="#5f8795"/>
+    <text x="1032" y="157" text-anchor="middle">Data modeling</text>
+    <rect x="944" y="198" width="176" height="54" rx="12" fill="#233d4c" stroke="#5f8795"/>
+    <text x="1032" y="232" text-anchor="middle">Performance</text>
+  </g>
+  <circle class="pulse late" cx="944" cy="76" r="4" fill="#87ead6"/>
+  <circle class="pulse" cx="944" cy="150" r="4" fill="#87ead6"/>
+  <circle class="pulse late" cx="944" cy="225" r="4" fill="#87ead6"/>
+</svg>
