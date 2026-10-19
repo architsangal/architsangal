@@ -4,9 +4,7 @@
 
 ## Hi, I'm Archit 👋
 
-I'm a software engineer who enjoys figuring out how systems work—and why they sometimes don't. I gravitate toward backend engineering: shaping service boundaries, working through data access, and finding practical ways to improve performance and reliability. I build across the stack when a project needs it.
-
-This GitHub is where I share my own projects and experiments. My professional experience is on [LinkedIn](https://www.linkedin.com/in/architsangal/).
+I'm a software engineer who enjoys backend work—from designing service boundaries and data models to tracing performance and reliability issues. I like understanding why a system behaves the way it does, then making practical improvements.
 
 ## Currently building
 
